@@ -360,7 +360,403 @@ Gyarados;
 - Dragon Rage damage 50 -> 60
 - Changed Weakness from Grass to Lightning
 
+Lapras;
+- Confuse Ray damage 10 -> 20
 
+VaporeonLv29;
+- Hp 60 -> 70
+- Bite cost -1 Colorless
+
+VaporeonLv42
+- Quick Attack base damage 10 -> 20
+
+Omanyte;
+- Hp 40 -> 60
+- Water Gun base damage 10 -> 20
+
+Omanstar;
+- Hp 70 -> 90
+- Water Gun base damage 20 -> 30
+
+ArticunoLv35;
+- Hp 70 -> 90
+- Freeze Dry cost -1 Water
+- Blizzard damage 50 -> 70
+- Added Fire Weakness
+
+ArticunoLv37;
+- Ice Breath deals 40 damage to 2 random enemy pokemon instead of 1
+- Added Fire Weakness
+
+### Lightning Types
+
+PikachuLv12;
+- Hp 40 -> 50
+
+Pikachulv14;
+- Hp 50 -> 60
+
+PikachuLv16;
+- No Changes
+
+FlyingPikachu;
+- No Changes
+
+SurfingPikachu;
+- Surf cost -1 Water, +1 Lightning
+- Surf damage 30 -> 40
+
+RaichuLv40;
+- Thunder cost -1 Lightning
+
+RaichuLv45;
+- Gigashock damage 30 -> 40
+- Gigashock deals 20 damage to chosen benched pokemon instead of 10
+
+MagnemiteLv13;
+- Retreat cost -1
+
+MagnemiteLv15;
+- Hp 40 -> 50
+- Magnetic Storm damage 0 -> 30
+
+MagnetonLv28;
+- Hp 60 -> 80
+
+Magnetonlv35;
+- Hp 80 -> 90
+
+Voltorb;
+- Added Sonicboom / Cost 1 Lightning, 1 Colorless / Don't apply weakness and resistence to this attack
+- Retreat cost -1
+
+ElectrodeLv35;
+- Energy Spike cost -1 Lightning
+
+ElectrodeLv42;
+- Tackle damage 20 -> 30
+- Chain Lightning deals 20 damage to benched pokemon instead of 10
+
+ElectabuzzLv20;
+- Quick Attack cost +1 Colorless
+- Quick Attack base damage 10 -> 20
+
+ElectabuzzLv35;
+- Hp 70 -> 60
+
+JolteonLv24;
+- Hp 60 -> 70
+- Stun Needle cost -1 Colorless
+
+JolteonLv29;
+- Quick Attack base damage 10 -> 20
+- Retreat cost -1
+
+ZapdosLv40;
+- Thunderstorm deals 30 damage to benched pokemon instead of 20 for each heads
+- Added Lightning Weakness
+
+ZapdosLv64;
+- Thunder cost -1 Colorless
+- Thunder damage 60 -> 50
+- Thunder Recoil damage 30 -> 20
+- Thunderbolt damage 100 -> 120
+- Added Lightning Weakness
+
+ZapdosLv68;
+- Big Thunder damage 70 -> 80
+- Added Lightning Weakness
+
+### FIghting Types
+
+Sandshrew;
+- Hp 40 -> 50
+
+Sandslash;
+- Slash damage 20 -> 30
+- Fury Swipes cost +1 Colorless
+- Fury Swipes damage 20 -> 30 x the number of heads
+
+Diglett;
+- Mudslap damage 30 -> 40
+
+Dugtrio;
+- Slash 40 -> 50
+- Earthquake damage 70 -> 90
+- Retreat cost -1
+
+Mankey;
+- Hp 30 -> 50
+
+Primeape;
+- Hp 70 -> 90
+- Tantrum cost +1 Fighting, -1 Colorless
+- Tantrum damage 50 -> 70
+
+Machop;
+- Added Attack Focus Energy / Cost 1 Colorless / Next turn, Low Kick deals twice as much damage.
+
+Machoke;
+- Karate Chop base damage 50 -> 60
+
+Machamp;
+- Seismic Toss damage 60 -> 80
+
+Geodude;
+- Stone BArrage cost -1 Colorless
+
+Graveler;
+- Hp 60 -> 70
+
+Golem;
+- Hp 80 -> 100
+- Avalanche cost -1 Colorless
+- Selfdestruct damage 100 -> 120
+- Selfdestruct recoil 100 -> 120
+
+Onix;
+- Harden cost -1 Fighting
+- Rock Throw cost +1 Fightning
+- Rock Throw damage 10 -> 20
+- Retreat cost -1
+
+Cubone;
+- Hp 40 -> 50
+
+MarowakLv26;
+- Call for Friend cost -1 Fighting
+
+MarowakLv32;
+- Wail cost -1 Fighting
+- Wail damage 0 -> 30
+
+Hitmonlee;
+- Stretch Kick damage 20 -> 30
+
+Hitmonchan;
+- Hp 70 -> 60
+
+Rhyhorn;
+- Horn Attack cost +1 Fighting, -2 Colorless
+- Retreat cost -1
+
+Rhydon;
+- Hp 100 -> 110
+- Horn Attack cost +1 Fighting, -1 Colorless
+- Horn Attack damage 30 -> 50
+- Ram cost -1 Fighting, +1 Colorless
+- Ram damage 50 -> 80
+
+Kabuto;
+- Hp 30 -> 40
+
+Kabutops;
+- Hp 60 -> 80
+- Absorb damage 40 -> 80
+
+Aerodactyl;
+- Hp 60 -> 70
+- Wing Attack damage 30 -> 40
+- Weakness changed from Grass to Lightning
+
+### Psychic Type
+
+Abra;
+- No Change
+
+Kadabra;
+- Super Psi cost -1 Psychic, +1 Colorless
+- Super Psi damage 50 -> 40
+- Retreat cost -1
+
+Alakazam;
+- Hp 80 -> 90
+- Confuse Ray damage 30 -> 50
+- Retreat cost -1
+
+SlowpokeLv9;
+- Amnesia cost -1 Psychic
+
+SlowpokeLv18;
+- Spacing Out damage 0 -> 10, will still fail if you have no damage
+- Scavenge cost -1 Psychic
+
+Slowbro;
+- Hp 60 -> 90
+- Retreat cost +1
+- Added Fighting Resistence
+
+GastlyLv8;
+- Sleeping Gas damage 0 -> 10
+
+GastlyLv17;
+- Energy Convertion, no more recoil damage
+
+HaunterLv17;
+- Nightmare damage 10 -> 20
+
+HaunterLv22;
+- Hp 60 -> 70
+
+Gengar;
+- Hp 80 -> 90
+- Dark Mind deals 30 damage to benched pokemon instead of 10
+
+Drowzee;
+- Hp 50 -> 60
+- Confuse Ray damage 10 -> 20
+
+Hypno;
+- Dark Mind deals 30 damage to benched pokemon instead of 10
+
+Mr Mime;
+- Hp 40 -> 30
+
+Jynx;
+- Meditate cost -1 Colorless
+
+MewtwoLv53;
+- Hp 60 -> 70
+- Psychic cost -1 Colorless
+- Retreat cost -2
+
+MewtwoLv60;
+- No Change
+
+MewLv8;
+- Psyshock damage 10 -> 20
+
+MewLv15
+- Hp 50 -> 70
+
+MewLv23;
+- Hp 50 -> 70
+- Psywave cost +1 Psychic
+- Psywave deals 20 times the number of energy attached to the defending pokemon instead of 10
+
+### Colorless Type
+
+Pidgey;
+- Added Attack Tackle / Cost 1 Colorless/ 10 Damage
+- Whirlwind damage 10 -> 20
+
+Pidgeotto;
+- Whirlwind damage 20 -> 30
+- Mirror Move cost -1 Colorless
+
+Pidgeot1;
+- Hp 80 -> 90
+- Slicing Wind damage 30 -> 50
+- Gale cost -1 Colorless
+
+Pidgeot2;
+- Wing Attack damage 20 -> 30
+- Hurricane damage 30 -> 40
+
+Rattata;
+- No Change
+
+Raticate;
+- Super Fang cost -1 Colorless
+
+Spearow;
+- Mirror Move cost -1 Colorless
+
+Fearow;
+- Agility cost -1 Colorless
+- Drill Peck damage 40 -> 60
+
+Clefairy;
+- Hp 40 -> 60
+
+Clefable;
+- Hp 70 -> 90
+
+JigglypuffLv12;
+- Hp 50 -> 60
+- Double Edge recoil reduced to 10 damage
+
+JigglypuffLv13;
+- Expand damage 10 -> 20
+
+JigglypuffLv14;
+- No Change
+
+Wigglytuff;
+- No Change
+
+MeowthLV14;
+- Cat Punch damage 20 -> 30
+
+MeowthLv15;
+- Payday, no coin flip, just draws a card.
+
+Persian;
+- Scratch damage 20 -> 40
+- Pounce damage 30 -> 40
+
+Fasrfetch'd;
+- Hp 50 -> 40
+- Pot Smash cost -1
+
+Doduo;
+- Fury Attack cost +1 Colorless
+- Fury Attack damage 10 -> 20 times the number of heads
+
+Dodrio;
+- Rage cost -1 Colorless
+- Rage base damage 10 -> 20
+
+Lickitung;
+- Hp 90 -> 80
+- Supersonic damage 0 -> 10
+
+Chansey;
+- Double Edge damage 80 -> 60
+- Double Edge Recoil 80 -> 60
+- Retreat cost +1
+
+Kangaskhan;
+- Comet Punch damage 20 -> 30 Times the number of heads
+- Comet Punch Flips 3 coins instead of 4
+
+Tauros;
+- Rampage base damage 20 -> 30
+
+Ditto;
+- Morph cost -1 Colorless
+
+Eevee;
+- Quick Attack cost +1 Colorless
+- Quick Attack base damage 10 -> 20
+
+Porygon;
+- Hp 30 -> 40
+- Conversion 1 damage 0 -> 10
+- Conversion 2 damage 0 -> 20
+- No Weakness
+
+Snorlax;
+- No Changes
+
+Dratini;
+- Pound damage 10 -> 20
+
+Dragonair;
+- Slam cost -1 Colorless
+- Slam damage 30 -> 20 times the number of heads
+- Hyper Beam damage 20 -> 40
+
+DragoniteLv41;
+- Slam damage 30 -> 40 times the number of heads
+
+DragoniteLv45;
+- Hp 100 -> 120
+- Slam damage 40 -> 50 times the number of heads
+
+## Other Changes
+
+Some Ai updates that help enemy trianers utilize all of the cards in their decks, especially ones that have new attacks.
 
 
 
