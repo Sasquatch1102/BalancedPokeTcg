@@ -1,5 +1,5 @@
 # BalancedPokeTcg
-I tried balancing the Pokemon Trading Card game for Game Boy Color, here are all the changes I made
+I tried balancing the Pokemon Trading Card game for Game Boy Color, I tried making the top cards less viable but still usable, and some of the more useless cards have some sort of use.  Here are all the changes I made...
 
 ## Card Changes
 
