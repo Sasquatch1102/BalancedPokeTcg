@@ -754,6 +754,18 @@ DragoniteLv45;
 - Hp 100 -> 120
 - Slam damage 40 -> 50 times the number of heads
 
+### Trainers
+
+Imposter Oak;
+- Opponent discards their hand instead of shuffling it back into their deck
+- Opponent draws 4 cards instead of 7
+
+Super Potion;
+- Heals 60 instead of 40 damage
+
+Maintenance;
+-Draws 3 cards instead of 1
+
 ## Other Changes
 
 Some Ai updates that help enemy trianers utilize all of the cards in their decks, especially ones that have new attacks.
