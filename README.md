@@ -411,7 +411,7 @@ SurfingPikachu;
 - Surf damage 30 -> 40
 
 RaichuLv40;
-- Thunder cost -1 Lightning
+- Thunder cost changed to 3 Lightning
 
 RaichuLv45;
 - Gigashock damage 30 -> 40
@@ -431,18 +431,18 @@ Magnetonlv35;
 - Hp 80 -> 90
 
 Voltorb;
-- Added Sonicboom / Cost 1 Lightning, 1 Colorless / Don't apply weakness and resistence to this attack
+- Added Sonicboom / Cost 1 Lightning, 1 Colorless / 20 Damage / Don't apply weakness and resistence to this attack
 - Retreat cost -1
 
 ElectrodeLv35;
-- Energy Spike cost -1 Lightning
+- Energy Spike cost changed to 2 Lightning
 
 ElectrodeLv42;
 - Tackle damage 20 -> 30
 - Chain Lightning deals 20 damage to benched pokemon instead of 10
 
 ElectabuzzLv20;
-- Quick Attack cost +1 Colorless
+- Quick Attack cost chnaged to 3 Colorless
 - Quick Attack base damage 10 -> 20
 
 ElectabuzzLv35;
@@ -450,7 +450,7 @@ ElectabuzzLv35;
 
 JolteonLv24;
 - Hp 60 -> 70
-- Stun Needle cost -1 Colorless
+- Stun Needle cost changed to 3 Colorless
 
 JolteonLv29;
 - Quick Attack base damage 10 -> 20
