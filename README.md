@@ -570,7 +570,7 @@ Abra;
 - No Change
 
 Kadabra;
-- Super Psi cost -1 Psychic, +1 Colorless
+- Super Psi cost changed to 1 Psychic, 2 Colorless
 - Super Psi damage 50 -> 40
 - Retreat cost -1
 
@@ -584,7 +584,7 @@ SlowpokeLv9;
 
 SlowpokeLv18;
 - Spacing Out damage 0 -> 10, will still fail if you have no damage
-- Scavenge cost -1 Psychic
+- Scavenge cost changed to 1 Psychic
 
 Slowbro;
 - Hp 60 -> 90
