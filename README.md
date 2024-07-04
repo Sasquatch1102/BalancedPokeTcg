@@ -612,17 +612,18 @@ Drowzee;
 - Confuse Ray damage 10 -> 20
 
 Hypno;
+- Prophecy is now a PokePower, lets you draw a card once per turn
 - Dark Mind deals 30 damage to benched pokemon instead of 10
 
 Mr Mime;
 - Hp 40 -> 30
 
 Jynx;
-- Meditate cost -1 Colorless
+- Meditate cost changed to 2 Psychic
 
 MewtwoLv53;
 - Hp 60 -> 70
-- Psychic cost -1 Colorless
+- Psychic cost changed to 1 Psychic
 - Retreat cost -2
 
 MewtwoLv60;
@@ -636,8 +637,8 @@ MewLv15
 
 MewLv23;
 - Hp 50 -> 70
-- Psywave cost +1 Psychic
-- Psywave deals 20 times the number of energy attached to the defending pokemon instead of 10
+- Psywave cost changed to 2 Psychic
+- Psywave deals 20 damage times the number of energy attached to the defending pokemon instead of 10
 
 ### Colorless Type
 
