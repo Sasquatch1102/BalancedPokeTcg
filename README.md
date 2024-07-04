@@ -773,19 +773,34 @@ Maintenance;
 
 ### New Cards
 
-**Steelix<br/>
+**Steelix**<br/>
 Fighting Type <br/>
 100 HP <br/>
 Evolves from Onix<br/>
 Retreat Cost - 3<br/>
 Weakness - Fire<br/>
 Resistance - Lightning<br/>
+Uncommon <br/>
+Laboratory<br/>
 
 Steel Body / PokePower<br/>
 Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30<br/>
 
 Iron Tail / 3 Fighting Energy / 40 Damage<br/>
 Flip a coin, if heads, prevent all effects of your opponents attacks, including damage, on your opponents next turn.<br/>
+
+**Sneasal**<br/>
+Water Type<br/>
+60 HP<br/>
+Basic<br/>
+Retreat Cost 1<br/>
+Weakness - Fighting<br/>
+Resistance - Psychic<br/>
+Uncommon<br/>
+Laboratory<br/>
+
+Night Slash / 1 Water, 1 Colorless / 20 Damage<br/>
+If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
 
 
 
