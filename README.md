@@ -773,19 +773,19 @@ Maintenance;
 
 ### New Cards
 
-#### Steelix
-Fighting Type <b/>
-100 HP <b/>
-Evolves from Onix<b/>
-Retreat Cost - 3<b/>
-Weakness - Fire<b/>
-Resistance - Lightning<b/>
+<b/> Steelix
+Fighting Type <br/>
+100 HP <br/>
+Evolves from Onix<br/>
+Retreat Cost - 3<br/>
+Weakness - Fire<br/>
+Resistance - Lightning<br/>
 
-Steel Body / PokePower<b/>
-Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30<b/>
+Steel Body / PokePower<br/>
+Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30<br/>
 
-Iron Tail / 3 Fighting Energy / 40 Damage<b/>
-Flip a coin, if heads, prevent all effects of your opponents attacks, including damage, on your opponents next turn.<b/>
+Iron Tail / 3 Fighting Energy / 40 Damage<br/>
+Flip a coin, if heads, prevent all effects of your opponents attacks, including damage, on your opponents next turn.<br/>
 
 
 
