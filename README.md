@@ -471,14 +471,14 @@ ZapdosLv68;
 - Big Thunder damage 70 -> 80
 - Added Lightning Weakness
 
-### FIghting Types
+### Fighting Types
 
 Sandshrew;
 - Hp 40 -> 50
 
 Sandslash;
 - Slash damage 20 -> 30
-- Fury Swipes cost +1 Colorless
+- Fury Swipes cost changed to 2 Fighting, 1 Colorless
 - Fury Swipes damage 20 -> 30 x the number of heads
 
 Diglett;
@@ -494,7 +494,7 @@ Mankey;
 
 Primeape;
 - Hp 70 -> 90
-- Tantrum cost +1 Fighting, -1 Colorless
+- Tantrum cost changed to 3 Fighting
 - Tantrum damage 50 -> 70
 
 Machop;
@@ -507,20 +507,20 @@ Machamp;
 - Seismic Toss damage 60 -> 80
 
 Geodude;
-- Stone BArrage cost -1 Colorless
+- Stone Barrage cost changed to 1 Fighting
 
 Graveler;
 - Hp 60 -> 70
 
 Golem;
 - Hp 80 -> 100
-- Avalanche cost -1 Colorless
+- Avalanche cost changed to 3 Fighting
 - Selfdestruct damage 100 -> 120
 - Selfdestruct recoil 100 -> 120
 
 Onix;
-- Harden cost -1 Fighting
-- Rock Throw cost +1 Fightning
+- Harden cost changed to 1 Fighting
+- Rock Throw cost changed to 1 Fighting, 1 Colorless
 - Rock Throw damage 10 -> 20
 - Retreat cost -1
 
@@ -528,27 +528,28 @@ Cubone;
 - Hp 40 -> 50
 
 MarowakLv26;
-- Call for Friend cost -1 Fighting
+- Call for Friend cost changed to 1 Fighting, 1 Colorless
 
 MarowakLv32;
-- Wail cost -1 Fighting
+- Wail cost changed to 2 Fighting
 - Wail damage 0 -> 30
 
 Hitmonlee;
 - Stretch Kick damage 20 -> 30
+- Added Hi Jump Kick / 3 Fighitng / 50 Damage
 
 Hitmonchan;
 - Hp 70 -> 60
 
 Rhyhorn;
-- Horn Attack cost +1 Fighting, -2 Colorless
+- Horn Attack cost changed to 2 Fighting
 - Retreat cost -1
 
 Rhydon;
 - Hp 100 -> 110
-- Horn Attack cost +1 Fighting, -1 Colorless
+- Horn Attack cost changed to 2 Fighting, 1 Colorless
 - Horn Attack damage 30 -> 50
-- Ram cost -1 Fighting, +1 Colorless
+- Ram cost changed to 3 Fighting, 1 Colorless
 - Ram damage 50 -> 80
 
 Kabuto;
