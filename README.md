@@ -164,7 +164,7 @@ Exeggutor;
 
 Koffing;  
 - Hp 50 -> 60
-- Foul Gas cost -1 Grass
+- Foul Gas cost changed to 1 Grass and 1 Colorless
 - Added Grass Resistence
 
 Weezing;  
@@ -175,9 +175,9 @@ Weezing;
 
 TangelaLv8;  
 - Hp 50 -> 60
-- Bind cost -1 Colorless
+- Bind cost changed to 1 Grass
 - Bind damage 20 -> 10
-- Poison Powder cost -1 Grass
+- Poison Powder cost changd to 2 Grass
 - Added Lightning Resistence
 
 TangelaLv12;  
@@ -190,7 +190,7 @@ Scyther;
 
 Pinsir;  
 - Guillotine cost +1 Grass, -1 Colorless
-- Guillotine damage 50 -> 80
+- Guillotine damage 50 -> 60
 - Retreat cost +1
 
 ### Fire Types
@@ -199,7 +199,7 @@ Charmander;
 - Added Grass Resistence
 
 Charmeleon;  
-- Slash cost -1 Colorless  
+- Slash cost changed to 2 Colorless  
 - Flamethrower damage 50 -> 60  
 - Added Grass Resistence
 
@@ -209,7 +209,7 @@ Charizard;
 - Added Grass Resistence
 
 Vulpix;  
-- Added Tackle / Cost 1 Colorless / 10 Damage
+- Added Fetch / Cost 1 Colorless / Draw a Card.
 - Confuse Ray damage 10 -> 20
 - Retreat cost -1
 
