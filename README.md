@@ -6,7 +6,6 @@ I tried balancing the Pokemon Trading Card game for Game Boy Color, I tried maki
 ### Grass Types  
 
 Bulbasaur;  
-- Hp 40 -> 50  
 - Added Energy Spike / Cost 2 Colorless / Search your deck for a basic Energy card and attach it to 1 of your Pokémon.  Shuffle your deck afterward.  
 - Leech Seed Cost changed to 1 Grass, 1 Colorless  
 - Added Water Resistence  
@@ -21,12 +20,13 @@ VenusaurLv64;
 - Mega Drain damage 40 -> 60  
 - Added Water Resistence  
 
-VenusaurLv67;  
-- Solarbeam damage 60 -> 80  
+VenusaurLv67;   
+- HP 100 -> 120
 - Retreat cost +1  
 - Added Water Resistence  
 
 Caterpie;  
+- String shot cost changed to 1 Colorless
 - Retreat cost -1  
 - Added Fighting Resistence  
 
@@ -36,6 +36,7 @@ Metapod;
 - Added Fighting Resistence  
 
 Butterfree;  
+- HP 70 -> 80
 - Whirlwind damage 20 -> 30
 - Mega Drain Cost Grass -1  
 - Mega Drain damage 40 -> 60
@@ -46,13 +47,11 @@ Weedle;
 - Retreat cost -1
 - Added Fighting Resistence
 
-Kakuna;  
-- Poison Powder damage 20 -> 30  
+Kakuna;   
 - Retreat cost -1  
 - Added Fighting Resistence  
 
 Beedrill;  
-- Hp 80 -> 90  
 - Twineedle damage 30 -> 40 for each heads  
 - Poison Sting damage 40 -> 60  
 
@@ -63,7 +62,7 @@ Ekans;
 Arbok;  
 - Hp 60 -> 70
 - Terror Strike damage 10 -> 20
-- Poison Fang damage 20 -> 30
+- Poison Fang now deals double poison damage like Nidoking's Toxic
 - Added Grass Resistence
 
 NidoranF;  
@@ -71,12 +70,12 @@ NidoranF;
 
 Nidorina;  
 - Hp 70 -> 80
-- Double Kick cost -2 Colorless, +1 Grass
+- Double Kick cost changed to 2 Grass
 
 Nidoqueen;  
 - Hp 90 -> 100
-- Boyfriend cost -1 Colorless, +1 Grass
-- Boyfriend deals 50 damage for each Nidoking on your bench instead of 20
+- Boyfriend cost change to 2 Grass
+- Boyfriend deals 50 additional damage for each Nidoking on your bench instead of 20
 - Mega Punch cost -1 Grass
 - Added Lightning Resistence
 
@@ -86,24 +85,27 @@ NidoranM;
 
 Nidorino;  
 - Hp 60 -> 70
-- Double Kick cost -2 Colorless, +1 Grass
-- Horndrill cost -1 Colorless
+- Double Kick cost changed to 2 Grass
+- Horndrill damage 50 -> 40
+- Horndrill cost changed to 1 Grass, 2 Colorless
 
 Nidoking;  
 - Hp 90 -> 100  
-- Toxic cost -1 Grass
+- Toxic cost changed to 2 Grass
 - Toxic damage 20 -> 30
 - Thrash damage 30 -> 50
 - Thrash Recoil or Additional damage 30 instead of 10
-- Thrash cost +1 Grass
+- Thrash cost changed to 2 Grass, 2 Colorless
 - Added Lightning Resistence
 
 Zubat;  
-- Supersonic cost -1 Colorless
+- Hp 40 -> 30
+- Supersonic cost changed to 1 Colorless
 - Leech Life damage 10 -> 20
+- Leech Life cost changed to 2 Colorless
 
 Golbat;  
-- Wing Attack cost -1 Colorless
+- Wing Attack cost changed to 2 Colorkess
 - Leech Life damage 20 -> 40
 
 Oddish;  
