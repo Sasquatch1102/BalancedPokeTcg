@@ -648,14 +648,14 @@ Pidgey;
 
 Pidgeotto;
 - Whirlwind damage 20 -> 30
-- Mirror Move cost -1 Colorless
+- Mirror Move cost changed to 2 Colorless
 
-Pidgeot1;
+Pidgeotlv38;
 - Hp 80 -> 90
 - Slicing Wind damage 30 -> 50
-- Gale cost -1 Colorless
+- Gale cost changed to 3 Colorless
 
-Pidgeot2;
+Pidgeotlv40;
 - Wing Attack damage 20 -> 30
 - Hurricane damage 30 -> 40
 
@@ -663,13 +663,13 @@ Rattata;
 - No Change
 
 Raticate;
-- Super Fang cost -1 Colorless
+- Super Fang cost changed to 2 Colorless
 
 Spearow;
-- Mirror Move cost -1 Colorless
+- Mirror Move cost changed to 2 Colorless
 
 Fearow;
-- Agility cost -1 Colorless
+- Agility cost changed to 2 Colorless
 - Drill Peck damage 40 -> 60
 
 Clefairy;
@@ -706,11 +706,11 @@ Fasrfetch'd;
 - Pot Smash cost -1
 
 Doduo;
-- Fury Attack cost +1 Colorless
+- Fury Attack cost changed to 2 Colorless
 - Fury Attack damage 10 -> 20 times the number of heads
 
 Dodrio;
-- Rage cost -1 Colorless
+- Rage cost changed to 2 Colorless
 - Rage base damage 10 -> 20
 
 Lickitung;
@@ -730,16 +730,15 @@ Tauros;
 - Rampage base damage 20 -> 30
 
 Ditto;
-- Morph cost -1 Colorless
+- Morph cost changed to 2 Colorless
 
 Eevee;
-- Quick Attack cost +1 Colorless
+- Quick Attack cost changed to 3 Colorless
 - Quick Attack base damage 10 -> 20
 
 Porygon;
-- Hp 30 -> 40
 - Conversion 1 damage 0 -> 10
-- Conversion 2 damage 0 -> 20
+- Conversion 2 damage 0 -> 10
 - No Weakness
 
 Snorlax;
@@ -749,7 +748,7 @@ Dratini;
 - Pound damage 10 -> 20
 
 Dragonair;
-- Slam cost -1 Colorless
+- Slam cost changed to 2 Colorless
 - Slam damage 30 -> 20 times the number of heads
 - Hyper Beam damage 20 -> 40
 
@@ -771,6 +770,24 @@ Super Potion;
 
 Maintenance;
 -Draws 3 cards instead of 1
+
+### New Cards
+
+Steelix
+Fighting Type
+100 HP
+Evolves from Onix
+Retreat Cost - 3
+Weakness - Fire
+Resistance - Lightning
+
+Steel Body / PokePower
+Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30
+
+Iron Tail / 3 Fighting Energy / 40 Damage
+Flip a coin, if heads, prevent all effects of your opponents attacks, including damage, on your opponents next turn.
+
+
 
 ## Other Changes
 
