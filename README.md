@@ -284,13 +284,13 @@ Blastoise;
 - Added Fire Resistence
 
 Psyduck;
-- Headache cost -1 Psychic, +1 Colorless
+- Headache cost changed to 1 Colorless
 - Headache damage 0 -> 10
 - Retreat cost -1
 
 Golduck;
-- Psyshock cost -1 Psychic, +1 Colorless
-- Hyper Beam cost -1 Colorless
+- Psyshock cost changed to 1 Colorless
+- Hyper Beam cost changed to 2 Water
 - Retreat cost -1
 
 Poliwag;
@@ -298,8 +298,8 @@ Poliwag;
 
 Poliwhirl;  
 - Hp 60 -> 70
-- Amnesia cost -1 Water
-- Double Slap cost -1 Water, +1 Colorless
+- Amnesia cost changed to 1 Water
+- Double Slap cost changed to 1 Water, 2 Colorless
 
 Poliwrath;
 - Water Gun base damage 30 -> 50
@@ -313,7 +313,7 @@ Tentacruel;
 - Jelyfish Sting damage 10 -> 30
 
 Seel;
-- Headbutt cost -1 Water, +1 Colorless
+- Headbutt cost changed to 1 Colorless
 - Added Attack First Aid / Cost 1 Water, 1 Colorless / Remove 2 damage counters from Seel.
 
 Dewgong;
