@@ -773,7 +773,7 @@ Maintenance;
 
 ### New Cards
 
-Steelix
+#### Steelix
 Fighting Type
 100 HP
 Evolves from Onix
