@@ -215,8 +215,8 @@ Vulpix;
 
 NinetalesLv32;  
 - Hp 80 -> 90
-- Lure cost -1 colorless
-- Fire Blast cost -1 Fire  
+- Lure cost changed to 1 Colorless
+- Fire Blast cost changed to 3 Fire  
 - Fire Blast damage 80 -> 70
 - Retreat cost -1
 
@@ -231,11 +231,12 @@ ArcanineLv34;
 - Quick Attack base damage 10 -> 20
 
 ArcanineLv45;  
-- Take Down damage 80 -> 90, recoil damage increased from 30 to 40
+- Take Down damage 80 -> 90
+- Take Down recoil damage increased from 30 to 40
 
 Ponyta;  
 - Hp 40 -> 50
-- Smash Kick cost -1 Colorless
+- Smash Kick cost changed to 1 Colorless
 - Smash Kick damage 20 -> 10
 
 Rapidash;  
@@ -251,12 +252,12 @@ MagmarLv31;
 
 FlareonLv22;
 - Hp 60 -> 70
-- Bite cost -1 Colorless
+- Bite cost changed tp 2 Colorless
 
 FlareonLv28;  
 - Hp 70 -> 80
 - Quick Attack base damage 10 -> 20
-- Flamethrower cost -1 colorless
+- Flamethrower cost changed to 2 Fire, 1 Colorless
 
 MoltresLv35;  
 - Hp 70 -> 90
