@@ -318,7 +318,7 @@ Seel;
 
 Dewgong;
 - Hp 80 -> 90
-- Ice Beam cost +1 Water, -2 Colorless
+- Ice Beam cost changed to 3 Water
 - Retreat cost -1
 
 Shellder;
@@ -329,8 +329,8 @@ Cloyster;
 - Hp 50 -> 70
 
 Krabby;
-- Hp 50 -> 40
-- Iron Grip cost -1 Colorless
+- Hp 50 -> 30
+- Iron Grip cost changed to 1 Water
 
 Kingler;
 - Crabhammer damage 40 -> 50
@@ -359,8 +359,8 @@ Magikarp;
 - No Changes
 
 Gyarados;
-- Bubblebeam cost -1 Water
-- Dragon Rage cost +1 Water
+- Bubblebeam cost changed to 3 Water
+- Dragon Rage cost changed to 4 Water
 - Dragon Rage damage 50 -> 60
 - Changed Weakness from Grass to Lightning
 
@@ -369,7 +369,7 @@ Lapras;
 
 VaporeonLv29;
 - Hp 60 -> 70
-- Bite cost -1 Colorless
+- Bite cost changed to 2 Colorless
 
 VaporeonLv42
 - Quick Attack base damage 10 -> 20
@@ -384,7 +384,7 @@ Omanstar;
 
 ArticunoLv35;
 - Hp 70 -> 90
-- Freeze Dry cost -1 Water
+- Freeze Dry cost changed to 2 Water
 - Blizzard damage 50 -> 70
 - Added Fire Weakness
 
