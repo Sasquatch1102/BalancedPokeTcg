@@ -109,7 +109,8 @@ Golbat;
 - Leech Life damage 20 -> 40
 
 Oddish;  
-- Sprout cost -1 Grass
+- Sprout cost changed to 1 GRass
+- Sprout now Draws a card instead
 
 Gloom;  
 - Hp 60 -> 70
@@ -122,15 +123,16 @@ Vileplume;
 
 Paras;  
 - hp 40 -> 30
-- Scratch cost -2 colorless, +1 Grass
+- Scratch cost Changed to 1 Gass
+- Added Water Resistence
 
 Parasect;  
-- Slash cost -1 Colorless
+- Slash cost changed to 2 Colorless
 - Added Water Resistence
 
 Venonat;  
 - Hp 40 -> 60
-- Leech Life cost -1 Colorless
+- Leech Life cost changed to 1 Grass
 
 Venomoth;  
 - Hp 70 -> 80
@@ -150,11 +152,10 @@ Grimer;
 - no changes
 
 Muk;  
-- Hp 70 -> 80
-- Sludge damage 30 -> 40
+- Sludge now deals Double Poison damage like Nidoking's Toxic
 
 Exeggcute;  
-- Leech Seed cost -1 Grass, +1 Colorless
+- Leech Seed cost changed to 1 Grass and 1 Colorless
 - Added Psychic Resistence
 
 Exeggutor;  
