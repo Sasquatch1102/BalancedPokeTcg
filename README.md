@@ -407,7 +407,7 @@ FlyingPikachu;
 - No Changes
 
 SurfingPikachu;
-- Surf cost -1 Water, +1 Lightning
+- Surf cost changed to 1 Water and 1 Lightning
 - Surf damage 30 -> 40
 
 RaichuLv40;
