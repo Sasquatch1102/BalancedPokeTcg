@@ -802,7 +802,61 @@ Laboratory<br/>
 Night Slash / 1 Water, 1 Colorless / 20 Damage<br/>
 If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
 
+**Slowking**<br/>
+Psychic Type<br/>
+80 HP<br/>
+Evolves from Slowpoke<br/>
+Retreat Cost 3<br/>
+Weakness - Lightning<br/>
+Resistance - Water<br/>
+Rare<br/>
+Laboratory<br/>
 
+Future Sight / 2 Psychic / 30 Damage<br/>
+Draw a card.<br/>
+
+Psychic / 3 Psychic / 50 Damage<br/>
+Deals 10 more damage for each energy attached to the opposing Pokemon.<br/>
+
+**Mareep**<br/>
+Lightning Type<br/>
+40 HP<br/>
+Basic<br/>
+Retreat Cost 1<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Common<br/>
+Evolution<br/>
+
+Energy Wool / 1 Lightning / 10 Damage<br/>
+Search your deck for an energy card and put it in your hand, then shuffle your deck.<br/>
+
+**Flaaffy**<br/>
+Lightning Type<br/>
+80 HP<br/>
+Evolves from Mareep<br/>
+Retreat Cost 1<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Uncommon<br/>
+Evolution<br/>
+
+Energy Wool / 2 Lightning / 30 Damage<br/>
+Search your deck for an energy card and put it in your hand, then shuffle your deck.<br/>
+
+**Ampharos**<br/>
+Lightning Type<br/>
+100 HP<br/>
+Evolves from Flaaffy<br/>
+Retreat Cost 2<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Rare<br/>
+Evolution<br/>
+
+Gigaspark / 3 Lightning / 40 Damage<br/>
+Flip a coin, if heads, your opponents Pokemon is now paralyzed and deal 10 damage to<br/>
+each of their benched Pokemon <br/>
 
 ## Other Changes
 
