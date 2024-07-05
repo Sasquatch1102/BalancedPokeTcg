@@ -783,10 +783,10 @@ Resistance - Lightning<br/>
 Uncommon <br/>
 Laboratory<br/>
 
-Steel Body / PokePower<br/>
+**Steel Body** / PokePower<br/>
 Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30<br/>
 
-Iron Tail / 3 Fighting Energy / 40 Damage<br/>
+**Iron Tail** / 3 Fighting Energy / 40 Damage<br/>
 Flip a coin, if heads, prevent all effects of your opponents attacks, including damage, on your opponents next turn.<br/>
 
 **Sneasal**<br/>
@@ -799,7 +799,7 @@ Resistance - Psychic<br/>
 Uncommon<br/>
 Laboratory<br/>
 
-Night Slash / 1 Water, 1 Colorless / 20 Damage<br/>
+**Night Slash** / 1 Water, 1 Colorless / 20 Damage<br/>
 If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
 
 **Slowking**<br/>
@@ -812,10 +812,10 @@ Resistance - Water<br/>
 Rare<br/>
 Laboratory<br/>
 
-Future Sight / 2 Psychic / 30 Damage<br/>
+**Future Sight** / 2 Psychic / 30 Damage<br/>
 Draw a card.<br/>
 
-Psychic / 3 Psychic / 50 Damage<br/>
+**Psychic** / 3 Psychic / 50 Damage<br/>
 Deals 10 more damage for each energy attached to the opposing Pokemon.<br/>
 
 **Mareep**<br/>
@@ -828,7 +828,7 @@ Resistance - None<br/>
 Common<br/>
 Evolution<br/>
 
-Energy Wool / 1 Lightning / 10 Damage<br/>
+**Energy Wool** / 1 Lightning / 10 Damage<br/>
 Search your deck for an energy card and put it in your hand, then shuffle your deck.<br/>
 
 **Flaaffy**<br/>
@@ -841,7 +841,7 @@ Resistance - None<br/>
 Uncommon<br/>
 Evolution<br/>
 
-Energy Wool / 2 Lightning / 30 Damage<br/>
+**Energy Wool** / 2 Lightning / 30 Damage<br/>
 Search your deck for an energy card and put it in your hand, then shuffle your deck.<br/>
 
 **Ampharos**<br/>
@@ -854,9 +854,41 @@ Resistance - None<br/>
 Rare<br/>
 Evolution<br/>
 
-Gigaspark / 3 Lightning / 40 Damage<br/>
+**Gigaspark** / 3 Lightning / 40 Damage<br/>
 Flip a coin, if heads, your opponents Pokemon is now paralyzed and deal 10 damage to<br/>
 each of their benched Pokemon <br/>
+
+**Houndour**<br/>
+Fire Type<br/>
+50 HP<br/>
+Basic<br/>
+Retreat Cost 0<br/>
+Weakness - Water<br/>
+Resistance - Psychic<br/>
+Uncommon<br/>
+Mystery<br/>
+
+**Bite** / 2 Colorless / 20 Damage<br/>
+If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
+
+**Ember** / 1 Fire, 1 Colorless / 30 Damage<br/>
+Discard a Fire energy to use this attack.<br/>
+
+**Houndoom**<br/>
+Fire Type<br/>
+90 HP<br/>
+Evolves from Houndour<br/>
+Retreat Cost 2<br/>
+Weakness - Water<br/>
+Resistance - Psychic<br/>
+Rare<br/>
+Mystery<br/>
+
+**Fire Fang** / 2 Fire / 40 Damage<br/>
+If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
+
+**Crunch** / 2 Fire, 1 Colorless / 50 Damage<br/>
+If this attack hits a Psychic Type, it deals an additional 50 damage<br/>
 
 ## Other Changes
 
