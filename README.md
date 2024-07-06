@@ -185,7 +185,7 @@ TangelaLv8;
 
 TangelaLv12;  
 - Hp 50 -> 60
-- Poison Whip damage 10 -> 30
+- Poison Whip damage 10 -> 20
 - Added Water Resistence
 
 Scyther;  
