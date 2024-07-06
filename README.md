@@ -48,12 +48,13 @@ Weedle;
 - Added Fighting Resistence
 
 Kakuna;   
-- Retreat cost -1  
+- Retreat cost -1
+- Poison Powder damage 20 -> 30
 - Added Fighting Resistence  
 
 Beedrill;  
 - Twineedle damage 30 -> 40 for each heads  
-- Poison Sting damage 40 -> 60  
+- Poison Sting damage 40 -> 50  
 
 Ekans;  
 - Hp 40 -> 50
@@ -191,7 +192,6 @@ Scyther;
 - Hp 70 -> 60
 
 Pinsir;  
-- Guillotine cost +1 Grass, -1 Colorless
 - Guillotine damage 50 -> 60
 - Retreat cost +1
 
