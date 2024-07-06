@@ -124,10 +124,12 @@ Vileplume;
 Paras;  
 - hp 40 -> 30
 - Scratch cost Changed to 1 Gass
+- Spore cost Changed to 2 Colorless
 - Added Water Resistence
 
 Parasect;  
-- Slash cost changed to 2 Colorless
+- Spore cost changed to 2 colorless
+- Slash cost changed to 1 Grass and 1 Colorless
 - Added Water Resistence
 
 Venonat;  
@@ -609,10 +611,12 @@ Gengar;
 
 Drowzee;
 - Hp 50 -> 60
+- Replaced Pound with Prophecy
+- Prophecy lets you draw a card once per turn
 - Confuse Ray damage 10 -> 20
 
 Hypno;
-- Prophecy is now a PokePower, lets you draw a card once per turn
+- Prophecy is now a PokePower, lets you draw 2 cards once per turn
 - Dark Mind deals 30 damage to benched pokemon instead of 10
 
 Mr Mime;
