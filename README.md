@@ -17,7 +17,6 @@ Ivysaur;
 - Added Water Resistence  
 
 VenusaurLv64;  
-- Mega Drain damage 40 -> 60  
 - Added Water Resistence  
 
 VenusaurLv67;   
@@ -48,40 +47,43 @@ Weedle;
 - Added Fighting Resistence
 
 Kakuna;   
-- Retreat cost -1
 - Poison Powder damage 20 -> 30
+- Retreat cost -1
 - Added Fighting Resistence  
 
 Beedrill;  
-- Twineedle damage 30 -> 40 for each heads  
+- Twineedle damage 30 -> 40 for each heads
+- Twineedle cost changed to 4 Colorless  
 - Poison Sting damage 40 -> 50  
 
 Ekans;  
 - Hp 40 -> 50
+- Spit Poison cost changed to 1 Colorless
 - Added Grass Resistence
 
 Arbok;  
 - Hp 60 -> 70
 - Terror Strike damage 10 -> 20
+- Poison Fang damage 20 -> 10
 - Poison Fang now deals double poison damage like Nidoking's Toxic
 - Added Grass Resistence
 
 NidoranF;  
-- Call for Family cost -1 Grass  
+- Call for Family cost changed to 1 Grass
 
 Nidorina;  
 - Hp 70 -> 80
-- Double Kick cost changed to 2 Grass
+- Supersonic cost changed to 1 Colorless
+- Double Kick cost changed to 3 Colorless
 
 Nidoqueen;  
 - Hp 90 -> 100
-- Boyfriend cost change to 2 Grass
+- Boyfriend cost changed to 2 Grass
 - Boyfriend deals 50 additional damage for each Nidoking on your bench instead of 20
-- Mega Punch cost -1 Grass
+- Mega Punch cost changed to 4 Colorless
 - Added Lightning Resistence
 
 NidoranM;  
-- Hp 40 -> 50
 - Added Tackle / Cost 1 Colorless / 10 damage
 
 Nidorino;  
@@ -93,7 +95,6 @@ Nidorino;
 Nidoking;  
 - Hp 90 -> 100  
 - Toxic cost changed to 2 Grass
-- Toxic damage 20 -> 30
 - Thrash damage 30 -> 50
 - Thrash Recoil or Additional damage 30 instead of 10
 - Thrash cost changed to 2 Grass, 2 Colorless
@@ -107,10 +108,10 @@ Zubat;
 
 Golbat;  
 - Wing Attack cost changed to 2 Colorkess
-- Leech Life damage 20 -> 40
+- Leech Life damage 20 -> 30
 
 Oddish;  
-- Sprout cost changed to 1 GRass
+- Sprout cost changed to 1 Grass
 - Sprout now Draws a card instead
 
 Gloom;  
@@ -124,13 +125,13 @@ Vileplume;
 
 Paras;  
 - hp 40 -> 30
-- Scratch cost Changed to 1 Gass
-- Spore cost Changed to 2 Colorless
+- Scratch cost changed to 1 Grass
+- Spore cost changed to 2 Colorless
 - Added Water Resistence
 
 Parasect;  
 - Spore cost changed to 2 colorless
-- Slash cost changed to 1 Grass and 1 Colorless
+- Slash damage 30 -> 40
 - Added Water Resistence
 
 Venonat;  
@@ -143,9 +144,10 @@ Venomoth;
 
 Bellsprout;  
 - Hp 40 -> 50
+- Retreat cost -1
 
 Weepinbell;  
-- No changes
+- Razor Leaf damage 30 -> 40
 
 Victreebel;  
 - Acid damage 20 -> 40
@@ -166,7 +168,6 @@ Exeggutor;
 - Added Psychic Resistence
 
 Koffing;  
-- Hp 50 -> 60
 - Foul Gas cost changed to 1 Grass and 1 Colorless
 - Added Grass Resistence
 
@@ -180,7 +181,7 @@ TangelaLv8;
 - Hp 50 -> 60
 - Bind cost changed to 1 Grass
 - Bind damage 20 -> 10
-- Poison Powder cost changd to 2 Grass
+- Poison Powder cost changed to 2 Grass
 - Added Lightning Resistence
 
 TangelaLv12;  
@@ -190,6 +191,7 @@ TangelaLv12;
 
 Scyther;  
 - Hp 70 -> 60
+- Retreat cost +1
 
 Pinsir;  
 - Guillotine damage 50 -> 60
@@ -202,7 +204,6 @@ Charmander;
 
 Charmeleon;  
 - Slash cost changed to 2 Colorless  
-- Flamethrower damage 50 -> 60  
 - Added Grass Resistence
 
 Charizard;  
@@ -216,14 +217,13 @@ Vulpix;
 - Retreat cost -1
 
 NinetalesLv32;  
-- Hp 80 -> 90
 - Lure cost changed to 1 Colorless
 - Fire Blast cost changed to 3 Fire  
 - Fire Blast damage 80 -> 70
 - Retreat cost -1
 
 NinetalesLv35;  
-- No Changes
+- Hp 80 -> 90
 
 Growlithe;  
 - Added Tackle / Cost 1 Colorless / 10 Damage
@@ -235,14 +235,15 @@ ArcanineLv34;
 ArcanineLv45;  
 - Take Down damage 80 -> 90
 - Take Down recoil damage increased from 30 to 40
+- Take Down cost changed to 3 Fire and 1 Colorless
 
 Ponyta;  
-- Hp 40 -> 50
 - Smash Kick cost changed to 1 Colorless
 - Smash Kick damage 20 -> 10
+- Retreat cost -1
 
 Rapidash;  
-- Hp 70 -> 90
+- Hp 70 -> 80
 - Stomp deals 20 damage on heads instead of 10
 
 MagmarLv24;
@@ -254,7 +255,7 @@ MagmarLv31;
 
 FlareonLv22;
 - Hp 60 -> 70
-- Bite cost changed tp 2 Colorless
+- Bite cost changed to 2 Colorless
 
 FlareonLv28;  
 - Hp 70 -> 80
@@ -262,11 +263,13 @@ FlareonLv28;
 - Flamethrower cost changed to 2 Fire, 1 Colorless
 
 MoltresLv35;  
-- Hp 70 -> 90
-- Added Water Weakness
+- Hp 70 -> 80
+- Added Fighting Weakness
+- Added Grass Resistance
 
 MoltresLv37;
-- Added Water Weakness
+- Added Fitghing Weakness
+- Added Grass Resistance
 
 ### Water Types  
 
@@ -304,7 +307,7 @@ Poliwhirl;
 - Double Slap cost changed to 1 Water, 2 Colorless
 
 Poliwrath;
-- Water Gun base damage 30 -> 50
+- Water Gun base damage 30 -> 40
 
 Tentacool;
 - Hp 30 -> 50
@@ -335,7 +338,6 @@ Krabby;
 - Iron Grip cost changed to 1 Water
 
 Kingler;
-- Crabhammer damage 40 -> 50
 - Retreat cost -1
 
 Horsea;
@@ -347,6 +349,7 @@ Seadra;
 
 Goldeen;
 - Hp 40 -> 50
+- Horn Attack cost changed to 1 Colorless
 
 Seaking;
 - Waterfall damage 30 -> 40
@@ -382,10 +385,10 @@ Omanyte;
 
 Omanstar;
 - Hp 70 -> 90
-- Water Gun base damage 20 -> 30
+- Water Gun base damage 20 -> 40
 
 ArticunoLv35;
-- Hp 70 -> 90
+- Hp 70 -> 80
 - Freeze Dry cost changed to 2 Water
 - Blizzard damage 50 -> 70
 - Added Fire Weakness
@@ -437,7 +440,9 @@ Voltorb;
 - Retreat cost -1
 
 ElectrodeLv35;
-- Energy Spike cost changed to 2 Lightning
+- Energy Spike changed to a PKMN Power
+- Energy Spike Name Changed to Power Line
+- Sonicboom cost changed to 1 Lightning and 1 Colorless
 
 ElectrodeLv42;
 - Tackle damage 20 -> 30
@@ -463,10 +468,10 @@ ZapdosLv40;
 - Added Lightning Weakness
 
 ZapdosLv64;
-- Thunder cost -1 Colorless
+- Hp 90 -> 80
+- Thunder cost changed to 3 Lightning
 - Thunder damage 60 -> 50
 - Thunder Recoil damage 30 -> 20
-- Thunderbolt damage 100 -> 120
 - Added Lightning Weakness
 
 ZapdosLv68;
@@ -477,6 +482,7 @@ ZapdosLv68;
 
 Sandshrew;
 - Hp 40 -> 50
+- Added Attack Scratch / 2 Colorless / 20 Damage
 
 Sandslash;
 - Slash damage 20 -> 30
@@ -538,7 +544,6 @@ MarowakLv32;
 
 Hitmonlee;
 - Stretch Kick damage 20 -> 30
-- Added Hi Jump Kick / 3 Fighitng / 50 Damage
 
 Hitmonchan;
 - Hp 70 -> 60
@@ -559,17 +564,16 @@ Kabuto;
 
 Kabutops;
 - Hp 60 -> 80
-- Absorb damage 40 -> 80
+- Absorb damage 40 -> 60
 
 Aerodactyl;
-- Hp 60 -> 70
 - Wing Attack damage 30 -> 40
 - Weakness changed from Grass to Lightning
 
 ### Psychic Type
 
 Abra;
-- No Change
+- Added Teleport / 1 Psychic / Switch Abra with one of your Benched Pokemon
 
 Kadabra;
 - Super Psi cost changed to 1 Psychic, 2 Colorless
@@ -589,7 +593,7 @@ SlowpokeLv18;
 - Scavenge cost changed to 1 Psychic
 
 Slowbro;
-- Hp 60 -> 90
+- Hp 60 -> 80
 - Retreat cost +1
 - Added Fighting Resistence
 
@@ -610,13 +614,14 @@ Gengar;
 - Dark Mind deals 30 damage to benched pokemon instead of 10
 
 Drowzee;
-- Hp 50 -> 60
-- Replaced Pound with Prophecy
-- Prophecy lets you draw a card once per turn
+- Replaced Pound with Hypnosis
+- Hypnosis Costs 1 Psychic / Flip a coin, if heads, the Opponent is now asleep
 - Confuse Ray damage 10 -> 20
 
 Hypno;
-- Prophecy is now a PokePower, lets you draw 2 cards once per turn
+- Prophecy is now a PokePower called Hypnotize
+- Hypnotize, Once per turn (before you attack) you may flip a coin, if heads, Opponent's active
+Pokemon is now Asleep, can't use if Hypno is Asleep, Confused or Paralyzed.
 - Dark Mind deals 30 damage to benched pokemon instead of 10
 
 Mr Mime;
@@ -674,7 +679,7 @@ Spearow;
 
 Fearow;
 - Agility cost changed to 2 Colorless
-- Drill Peck damage 40 -> 60
+- Drill Peck damage 40 -> 50
 
 Clefairy;
 - Hp 40 -> 60
@@ -705,9 +710,8 @@ Persian;
 - Scratch damage 20 -> 40
 - Pounce damage 30 -> 40
 
-Fasrfetch'd;
-- Hp 50 -> 40
-- Pot Smash cost -1
+Farfetch'd;
+- No Change
 
 Doduo;
 - Fury Attack cost changed to 2 Colorless
@@ -761,7 +765,9 @@ DragoniteLv41;
 
 DragoniteLv45;
 - Hp 100 -> 120
-- Slam damage 40 -> 50 times the number of heads
+- Slam changed to Draco Meteor
+- Draco Meteor cost 4 Colorless / 1 of your opponent's Pokémon is chosen at random 4 times.
+For each time a Pokémon was chosen, do 30 damage to it.
 
 ### Trainers
 
@@ -893,6 +899,238 @@ If this attack hits a Psychic Type, it deals an additional 20 damage<br/>
 
 **Crunch** / 2 Fire, 1 Colorless / 50 Damage<br/>
 If this attack hits a Psychic Type, it deals an additional 50 damage<br/>
+
+**Celebi**<br/>
+Psychic Type<br/>
+50 HP<br/>
+Retreat Cost 1<br/>
+Weakness - Fire<br/>
+Resistance - Grass<br/>
+Rare<br/>
+Mystery<br/>
+
+**Wish** / 1 Psychic<br/>
+Search your deck for a card, put it in your hand, then shuffle your deck.<br/>
+
+**Leech Seed** / 1 Psychic, 1 Colorless / 20 Damage<br/>
+Unless all damage from this attack is prevented, you may remove<br/>
+1 damge counter from Celebi<br/>
+
+**Mudkip**<br/>
+Water Type<br/>
+30 HP<br/>
+Basic<br/>
+Retreat Cost 1<br/>
+Weakness - Grass<br/>
+Resistance - Lightning<br/>
+Common<br/>
+Colosseum<br/>
+
+**Mudslap** / 1 Water / 10 Damage<br/>
+If the defending Pokemon tries to attack during your opponent's next turn, <br/>
+your opponent flips a coin.  If tails, that attack does nothing <br/>
+
+**Mudshot** / 1 Water, 1 Colorless / 30 Damage<br/>
+
+**Quagsire**<br/>
+Water Type<br/>
+80 HP<br/>
+Evolves from Wooper<br/>
+Retreat Cost 2<br/>
+Weakness - Water<br/>
+Resistance - Psychic<br/>
+Uncommon<br/>
+Colosseum<br/>
+
+**Mudslap** / 1 Water, 1 Colorless / 30 Damage<br/>
+If the defending Pokemon tries to attack during your opponent's next turn, <br/>
+your opponent flips a coin.  If tails, that attack does nothing <br/>
+
+**Earthquake** / 3 Water, 1 Colorless / 70 Damage<br/>
+Does 10 damage to each of your own Benched Pokemon<br/>
+
+**Hooh**<br/>
+Colorless Type<br/>
+90 HP<br/>
+Basic<br/>
+Retreat Cost 3<br/>
+Weakness - Fighting<br/>
+Resistance - Grass<br/>
+Rare<br/>
+Mystery<br/>
+
+**Leer** / 1 Colorless<br/>
+Flip a coin. If heads, the Defending Pokemon can't attack Ho-oh during<br/>
+your opponent's next turn.<br/>
+
+**Rainbow Wing** / 1 Fire, 1 Lightning, 1 Grass, 1 Colorless / 90 Damage<br/>
+
+**Lugia**<br/>
+Colorless Type<br/>
+90 HP<br/>
+Basic<br/>
+Retreat Cost 3<br/>
+Weakness - Lightning<br/>
+Resistance - Fighting<br/>
+Rare<br/>
+Mystery<br/>
+
+**Sing** / 1 Colorless <br/>
+Flip a coin.  If heads, defending pokemon is now Asleep. <br/>
+
+**Aeroblast** / 1 Water, 1 Psychic, 1 Fighting, 1 Colorless / 120 Damage<br/>
+Discard all energy from this Pokemon to use this attack.<br/>
+
+**Larvitar**<br/>
+Fighting Type<br/>
+40 HP<br/>
+Basic<br/>
+Retreat Cost 0<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Common<br/>
+Evolution<br/>
+
+**Rock Blast** / 1 Fighting / 30 Damage<br/>
+Flip a coin.  If tails, this attack does nothing. <br/>
+
+**Take Down** / 1 Fighting, 1 Colorless / 30 Damage<br/>
+Flip a coin.  If tails, Larvitar deals 10 damage to itself.<br/>
+
+**Pupitar**<br/>
+Fighting Type<br/>
+70 HP<br/>
+Stage 1<br/>
+Retreat Cost 1<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Uncommon<br/>
+Evolution<br/>
+
+**Rollout** / 1 Fighting, 2 Colorless / 30 Damage<br/>
+During your next turn, Pupitar's Rollout attack's base damage is doubled. <br/>
+
+**Rapid Evolution** / 2 Fighting, 1 Colorless<br/>
+Searcdh your deck for a Tyranitar card and put it into your hand.  Shuffle your deck afterwards.<br/>
+
+**Tyranitar**<br/>
+Fighting Type<br/>
+120 HP<br/>
+Stage 2<br/>
+Retreat Cost 3<br/>
+Weakness - Fighting<br/>
+Resistance - Psychic<br/>
+Rare<br/>
+Evolution<br/>
+
+**Crunch** / 2 Fighting, 1 Colorless / 50 Damage<br/>
+If this attack hits a Psychic Type, it deals an additional 50 damage. <br/>
+
+**Rock Slide** / 2 Fighting, 2 Colorless / 60 Damage<br/>
+Does 30 damage to 1 of your opponent's Pokemon chosen at random. Don't apply Weakness and Resistance for this effect.  (Any other effects that would happen after applying Weakness and Resistance still happen.)<br/>
+
+**Raikou**<br/>
+Lightning Type<br/>
+80 HP<br/>
+Basic<br/>
+Retreat Cost 2<br/>
+Weakness - Fighting<br/>
+Resistance - None<br/>
+Rare<br/>
+Colosseum<br/>
+
+**Split Bolt** / 3 Lightning / 40 Damage<br/>
+If your Opponent has any Benched Pokemon, choose 1 of them.  This attack does 40 damage to it.  (Don't apply Weakness and Resistance for Benched Pokemon). <br/>
+
+**Entei**<br/>
+Fire Type<br/>
+80 HP<br/>
+Basic<br/>
+Retreat Cost 2<br/>
+Weakness - Water<br/>
+Resistance - None<br/>
+Rare<br/>
+Evolution<br/>
+
+**Extreme Heat** / 3 Fire / 50 Damage<br/>
+If this attack hits a Water Type, it deals an additional 50 damage. <br/>
+
+**Suicune**<br/>
+Water Type<br/>
+80 HP<br/>
+Basic<br/>
+Retreat Cost 2<br/>
+Weakness - Lightning<br/>
+Resistance - None<br/>
+Rare<br/>
+Mystery<br/>
+
+**Aurora Wave** / 3 Water / 30 Damage<br/>
+Flip 2 coins.  If both are heads, the Defending Pokemon isd now Paralyzed.  If only one flip is heads, the Defeneding Pokemon is now Asleep. <br/>
+
+**Kingdra**<br/>
+Water Type<br/>
+110 HP<br/>
+Stage 2<br/>
+Retreat Cost 2<br/>
+Weakness - None<br/>
+Resistance - Water<br/>
+Rare<br/>
+Colosseum<br/>
+
+**Dragon Dance** / PokePower<br/>
+Once during your turn (before your attack) you may discard your hand to draw 3 cards.  This power can't be used if Kingdra is Asleep, Confused, or Paralyzed. <br/>
+
+**Dragon Tornado** / 2 Water, 1 Colorless / 50 Damage<br/>
+After damage is dealt, Choose 1 of your Opponent's Benched Pokemon and switch it with his or her Active Pokemon.<br/>
+
+**Crobat**<br/>
+Grass Type<br/>
+80 HP<br/>
+Stage 2<br/>
+Retreat Cost 1<br/>
+Weakness - Psychic<br/>
+Resistance - Fighting<br/>
+Uncommon<br/>
+Laboratory<br/>
+
+**Mean Look** / 1 Grass, 2 Colorless / 30 Damage<br/>
+Your Opponent discards his or her hand into his or her Discard Pile, then draws 3 cards. <br/>
+
+**Leech Life** / 2 Grass, 1 Colorless / 40 Damage<br/>
+Remove a number of damage counters from Crobat equal to the damage done to the Defending Pokemon (after applying Weakness and Resistence).  If Crobat has fewer damage counters than that, remove all of them.<br/>
+
+**Heracross**<br/>
+Grass Type<br/>
+60 HP<br/>
+Basic<br/>
+Retreat Cost 2<br/>
+Weakness - Fire<br/>
+Resistance - Grass<br/>
+Uncommon<br/>
+Laboratory<br/>
+
+**U-Turn** / 1 Grass, 1 Colorless / 20 Damage<br/>
+Switch Heracross with one of your Benched Pokemon<br/>
+
+**Megahorn** / 2 Grass, 1 Colorless / 60 Damage<br/>
+Flip a coin.  If tails, this attack does nothing.  If your HP is 20 or less, this attack deals an additional 60 damage.<br/>
+
+**Scizor**<br/>
+Grass Type<br/>
+80 HP<br/>
+Stage 1<br/>
+Retreat Cost 1<br/>
+Weakness - Fire<br/>
+Resistance - Grass<br/>
+Rare<br/>
+Colosseum<br/>
+
+**Steel Body** / PokePower<br/>
+Damage done to this Pokemon (including your own) by Colorless Pokemon is reduced by 30<br/>
+
+**Metal Claw** / 3 Colorless / 40 Damage<br/>
+<br/>
 
 ## Other Changes
 
